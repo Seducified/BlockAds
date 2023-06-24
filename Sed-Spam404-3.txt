@@ -70,3 +70,11 @@
 ||adfstat.yandex.ru^
 ||metrika.yandex.ru^
 ||advertising.yandex.ru^
+#
+||api.sonelli.com^
+||sonelli.com^
+||ssl.google-analytics.com^
+||telemetry.soundcloud.com^
+||ui-portal.de^
+||ui-portal.com^
+||rtb-csync.smartadserver.com^
